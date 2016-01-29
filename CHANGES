@@ -1,3 +1,9 @@
+Version 0.1.1:
+ - version bump w/ gem
+ - ignore files
+ - Merge tag '0.1.0' into develop
+ - Merge branch 'r-0.1.0'
+
 Version 0.1.0
  - buchhaltung
  - initial
