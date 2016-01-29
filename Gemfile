@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'yafirst', :git => 'https://github.com/wolfhesse/yafirst.git', :ref => 'v0.1.1'
+gem 'yafirst', :git => 'https://github.com/wolfhesse/yafirst.git', :ref => 'v0.1.2'
 
 group :development, :test do
 

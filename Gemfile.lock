@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/wolfhesse/yafirst.git
-  revision: 282c5f593afa1e1b3317d6cebe6df999159c383a
-  ref: v0.1.1
+  revision: da3bb2a8c42fb0594d592612bdd6d6d1ab6edf79
+  ref: v0.1.2
   specs:
-    yafirst (0.1.1)
+    yafirst (0.1.2)
 
 GEM
   remote: https://rubygems.org/
