@@ -1,0 +1,12 @@
+# Logfile created on 2016-01-29 05:11:58 +0100 by logger.rb/47272
+I, [2016-01-29T05:15:11.431036 #3874]  INFO -- : new run of specs at 2016-01-29T05:15:11+01:00
+I, [2016-01-29T05:16:08.181231 #4668]  INFO -- : new run of specs at 2016-01-29T05:16:08+01:00
+I, [2016-01-29T05:16:17.407862 #4796]  INFO -- : new run of specs at 2016-01-29T05:16:17+01:00
+I, [2016-01-29T05:16:32.832624 #5016]  INFO -- : new run of specs at 2016-01-29T05:16:32+01:00
+I, [2016-01-29T05:16:33.023614 #5016]  INFO -- : yafirst logger is configured at 2016-01-29T05:16:33+01:00
+I, [2016-01-29T05:16:33.078609 #5016]  INFO -- : lick_things called with parameter i => 
+I, [2016-01-29T05:16:33.386001 #5016]  INFO -- : #<Yafirst::SysArch::IndexAdapter:0x007eff740a39d8>.add_filter .. {:topic=>"wien"}
+I, [2016-01-29T05:16:33.386264 #5016]  INFO -- : #<Yafirst::SysArch::IndexAdapter:0x007eff740a39d8>.add_filter .. {:topic=>"faymann", :method=>:and}
+I, [2016-01-29T05:16:33.386383 #5016]  INFO -- : #<Yafirst::SysArch::IndexAdapter:0x007eff740a39d8>.add_filter .. {:topic=>"bereich", :method=>:or}
+I, [2016-01-29T05:16:33.386518 #5016]  INFO -- : #<Yafirst::SysArch::IndexAdapter:0x007eff740a39d8>.search
+I, [2016-01-29T05:16:33.386600 #5016]  INFO -- : #<Yafirst::SysArch::IndexAdapter:0x007eff740a39d8> returns result
